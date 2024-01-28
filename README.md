@@ -1,4 +1,6 @@
-# Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nicolas%20Fabing&section=header&textBg=false)
+
+# 👋 Hi there, I'm Nicolas!
 
 Currently working as a PHP developer at [Adimeo](https://www.adimeo.com/), I have helped build and maintain multiple Drupal projects!
 
