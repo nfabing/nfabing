@@ -17,4 +17,4 @@ Currently working as a PHP developer at [Adimeo](https://www.adimeo.com/), I hav
 ### Some articles I have written : 
  - [Drupal Bundle Class](https://www.adimeo.com/blog-technique/bundle-class-drupal) - French !
  - [Implement a production log strategy on Drupal](https://www.adimeo.com/blog-technique/strategie-de-log-de-production-sur-drupal) - French
- - *More soon...*
+ - *More to come soon!*
