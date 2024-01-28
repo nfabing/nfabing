@@ -14,7 +14,7 @@ Currently working as a PHP developer at [Adimeo](https://www.adimeo.com/), I hav
  - [La Base Lextenso](https://www.labase-lextenso.fr/) - Drupal 7 & Symfony 5
  - [Lextenso Etudiant](https://www.lextenso-etudiant.fr/) - Drupal 7
 
-### Some articles I wrote : 
+### Articles I wrote : 
  - [Drupal Bundle Class](https://www.adimeo.com/blog-technique/bundle-class-drupal) - French !
  - [Implement a production log strategy on Drupal](https://www.adimeo.com/blog-technique/strategie-de-log-de-production-sur-drupal) - French
  - *More to come soon!*
